@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Actors>
+  <Actor id="1" name="Вася" nickname="Тест" face_index="0" character_index="0" initial_level="1" face_name="" class_id="1" character_name="" description="" max_level="99" icon_index="0">
+    <note>Test\r\nТест</note>
+    <Features>
+      <feature code="11" data_id="1" value="1.0"/>
+      <feature code="12" data_id="0" value="0.93"/>
+    </Features>
+    <equips Weapon="0" Shield="0" Helm="0" Armor="0" Acc="0"/>
+  </Actor>
+  <Actor id="4" name="Гадя" nickname="Тест" face_index="0" character_index="0" initial_level="1" face_name="" class_id="1" character_name="" description="" max_level="99" icon_index="0">
+    <note>Test\r\nТест</note>
+    <Features>
+      <feature code="12" data_id="0" value="0.93"/>
+      <feature code="11" data_id="1" value="1.0"/>
+    </Features>
+    <equips Weapon="0" Shield="0" Helm="0" Armor="0" Acc="0"/>
+  </Actor>
+</Actors>
